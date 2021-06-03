@@ -91,4 +91,3 @@ Christophe Veaux,  Junichi Yamagishi, Kirsten MacDonald,
 "CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit",  
 The Centre for Speech Technology Research (CSTR), 
 University of Edinburgh 
-

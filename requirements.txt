@@ -1,16 +1,15 @@
-umap-learn
-visdom
-librosa>=0.8.0
-matplotlib>=3.3.0
-numpy==1.19.3; platform_system == "Windows"
-numpy==1.19.4; platform_system != "Windows"
-scipy>=1.0.0
-tqdm
-sounddevice
-SoundFile
-Unidecode
-inflect
-PyQt5
-multiprocess
-numba
-webrtcvad; platform_system != "Windows"
+numpy~=1.20.3
+scipy~=1.6.3
+librosa~=0.8.1
+webrtcvad~=2.0.10
+scikit-learn~=0.24.2
+matplotlib~=3.4.2
+multiprocess~=0.70.11.1
+tqdm~=4.61.0
+visdom~=0.1.8.9
+sounddevice~=0.4.1
+SoundFile~=0.10.3.post1
+PyQt5~=5.15.4
+audioread~=2.1.9
+inflect~=5.3.0
+Unidecode~=1.2.0
