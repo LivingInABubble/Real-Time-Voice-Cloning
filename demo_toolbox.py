@@ -15,7 +15,9 @@ if __name__ == '__main__':
     parser.add_argument("-d", "--datasets_root", type=Path,
                         help="Path to the directory containing your datasets. "
                              "See toolbox/__init__.py for a list of supported datasets.",
-                        default=None)
+                        # default=None
+                        default='E:\\ASR'
+                        )
     parser.add_argument("-e", "--enc_models_dir", type=Path, default="encoder/saved_models", 
                         help="Directory containing saved encoder models")
     parser.add_argument("-s", "--syn_models_dir", type=Path, default="synthesizer/saved_models", 

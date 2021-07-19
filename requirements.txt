@@ -1,11 +1,12 @@
-numpy~=1.20.3
+numpy~=1.21.0
 scipy~=1.6.3
 librosa~=0.8.1
 webrtcvad~=2.0.10
+torch~=1.9.0
 scikit-learn~=0.24.2
 matplotlib~=3.4.2
-multiprocess~=0.70.11.1
-tqdm~=4.61.0
+multiprocess~=0.70.12.2
+tqdm~=4.61.1
 visdom~=0.1.8.9
 sounddevice~=0.4.1
 SoundFile~=0.10.3.post1
